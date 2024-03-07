@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladimir Klectsov</h1>
+<h1 align="center">Hi 👋, I'm Vladimir Klevtsov</h1>
 <h3 align="center">IOS Developer, currently live in Serbia</h3>
 
 - 📫 How to reach me **vladimiriosdeveloper@gmail.com**
